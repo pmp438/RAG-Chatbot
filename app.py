@@ -11,7 +11,7 @@ from index import process_pdfs
 from chatbot import generate_response
 
 CSV_FILE = "indexes.csv"
-pc = Pinecone(api_key="339fb317-14cb-4b44-81c9-5e54c3420f6b") 
+pc = Pinecone(api_key=st.secrets.pinecone_key) 
 
 def save_index_info(index_name, chatbot_name, chatbot_description):
     if os.path.exists(CSV_FILE):
