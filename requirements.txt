@@ -1,0 +1,15 @@
+transformers
+streamlit
+streamlit-chat
+sentence-transformers
+pinecone-client
+PyMuPDF
+langchain
+langchain-community
+openai
+torch 
+sentence_transformers 
+faiss-cpu
+pypdf
+langchain-pinecone
+groq
