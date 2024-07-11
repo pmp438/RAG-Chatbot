@@ -1,3 +1,4 @@
+[<img src="https://github.com/Sakalya100/AutoTabML/blob/main/Sample%20Data/AutoTabML%20Automated%20Code%20generation%20Using%20ML.png" width="5000px;"/>](https://github.com/pmp438)
 # Med-Buddy - Personalised RAG-Chatbot for Medical Research Papers
 
 ## Overview
