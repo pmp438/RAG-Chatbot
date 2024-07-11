@@ -3,6 +3,10 @@
 ## Overview
 Med-Buddy is an implementation of a Retrieval-Augmented Generation (RAG) based chatbot. This chatbot leverages retrieval mechanisms to fetch relevant documents from an indexed database and uses a generative model to provide detailed and contextually relevant responses.
 
+## Try it out here
+The Med-Buddy Application is hosted on HuggingFace Spaces for anyone to go and test this amazing functionality.
+[<img src="https://github.com/Sakalya100/AutoTabML/blob/main/Sample%20Data/5229488.png" width="200px;"/>](https://huggingface.co/spaces/pmp438/med-buddy)
+
 ## Features
 - **Document Indexing:** Efficiently index documents for retrieval. Create as many chatbots with your different categories of documents and efficiently chat with them anytime you want without the need to re upload the documents. 
 - **Contextual Responses:** Generate responses based on retrieved documents. Utilising Llama-7B Model, and Pinecone as the Vector Database, get contextual and proper answers to your queries.
