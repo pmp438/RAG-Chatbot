@@ -8,6 +8,15 @@ Med-Buddy is an implementation of a Retrieval-Augmented Generation (RAG) based c
 - **Contextual Responses:** Generate responses based on retrieved documents. Utilising Llama-7B Model, and Pinecone as the Vector Database, get contextual and proper answers to your queries.
 - **Modular Design:** Easy to extend and integrate with various data sources. Components are divided and coded to easily integrate and expand use-cases in future.
 
+## Features
+- Pinecone
+- Streamlit
+- HuggingFace
+- Python
+- Llama-7B (Groq API)
+- Sentence-Transformers(Embedding)
+
+  
 ## Installation
 Clone the repository:
 ```bash
